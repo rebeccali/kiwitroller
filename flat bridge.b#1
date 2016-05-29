@@ -2505,14 +2505,14 @@ design rules under a new name.</description>
 </autorouter>
 <elements>
 <element name="U$1" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="39.878" y="76.2"/>
-<element name="R1" library="resistor" package="R1206" value="10" x="46.99" y="75.946" rot="R180"/>
+<element name="R1" library="resistor" package="R1206" value="" x="46.99" y="75.946" rot="R180"/>
 <element name="U$2" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="34.798" y="76.2"/>
 <element name="U$3" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="29.718" y="76.2"/>
 <element name="U$4" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="24.638" y="76.2"/>
 <element name="U$5" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="19.558" y="76.2"/>
 <element name="U$6" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="14.478" y="76.2"/>
 <element name="U$9" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="14.478" y="64.77"/>
-<element name="R9" library="resistor" package="R1206" value="10" x="46.99" y="61.214" rot="R180"/>
+<element name="R9" library="resistor" package="R1206" value="" x="46.99" y="61.214" rot="R180"/>
 <element name="U$10" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="19.558" y="64.77"/>
 <element name="U$11" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="24.638" y="64.77"/>
 <element name="U$12" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="29.718" y="64.77"/>
@@ -2520,14 +2520,14 @@ design rules under a new name.</description>
 <element name="U$14" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="39.878" y="64.77"/>
 <element name="U$7" library="brushlessrage" package="SO8" value="ACS711" x="42.418" y="56.134" rot="R270"/>
 <element name="U$8" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="14.478" y="43.688"/>
-<element name="R2" library="resistor" package="R1206" value="10" x="46.99" y="43.18" rot="R180"/>
+<element name="R2" library="resistor" package="R1206" value="" x="46.99" y="43.18" rot="R180"/>
 <element name="U$15" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="19.558" y="43.688"/>
 <element name="U$16" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="24.638" y="43.688"/>
 <element name="U$17" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="29.718" y="43.688"/>
 <element name="U$18" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="34.798" y="43.688"/>
 <element name="U$19" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="39.878" y="43.688"/>
 <element name="U$21" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="39.878" y="32.258"/>
-<element name="R3" library="resistor" package="R1206" value="10" x="46.99" y="28.702" rot="R180"/>
+<element name="R3" library="resistor" package="R1206" value="" x="46.99" y="28.702" rot="R180"/>
 <element name="U$22" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="14.478" y="32.258"/>
 <element name="U$23" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="19.558" y="32.258"/>
 <element name="U$24" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="24.638" y="32.258"/>
@@ -2535,23 +2535,23 @@ design rules under a new name.</description>
 <element name="U$26" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="34.798" y="32.258"/>
 <element name="U$28" library="brushlessrage" package="SO8" value="ACS711" x="42.418" y="23.368" rot="R270"/>
 <element name="U$29" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="14.478" y="10.414"/>
-<element name="R5" library="resistor" package="R1206" value="10" x="46.99" y="10.16" rot="R180"/>
+<element name="R5" library="resistor" package="R1206" value="" x="46.99" y="10.16" rot="R180"/>
 <element name="U$30" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="19.558" y="10.414"/>
 <element name="U$31" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="24.638" y="10.414"/>
 <element name="U$32" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="29.718" y="10.414"/>
 <element name="U$33" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="34.798" y="10.414"/>
 <element name="U$34" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="39.878" y="10.414"/>
 <element name="U$35" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="39.878" y="-1.016"/>
-<element name="R6" library="resistor" package="R1206" value="10" x="46.99" y="-4.572" rot="R180"/>
+<element name="R6" library="resistor" package="R1206" value="" x="46.99" y="-4.572" rot="R180"/>
 <element name="U$36" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="34.798" y="-1.016"/>
 <element name="U$37" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="29.718" y="-1.016"/>
 <element name="U$38" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="24.638" y="-1.016"/>
 <element name="U$39" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="19.558" y="-1.016"/>
 <element name="U$40" library="brushlessrage" package="SOP-ADVANCE" value="TPH2R608NH" x="14.478" y="-1.016"/>
 <element name="U$42" library="brushlessrage" package="SO8" value="ACS711" x="42.418" y="-10.414" rot="R270"/>
-<element name="C1" library="rcl" package="C2220K" value="10u" x="2.794" y="-7.874"/>
-<element name="C2" library="rcl" package="C2220K" value="10u" x="2.54" y="25.146"/>
-<element name="C3" library="rcl" package="C2220K" value="10u" x="2.54" y="57.658"/>
+<element name="C1" library="rcl" package="C2220K" value="" x="2.794" y="-7.874"/>
+<element name="C2" library="rcl" package="C2220K" value="" x="2.54" y="25.146"/>
+<element name="C3" library="rcl" package="C2220K" value="" x="2.54" y="57.658"/>
 <element name="C4" library="brushlessrage" package="CAP_EEFK_J16" value="EEVFK1J471M" x="-6.35" y="70.612" rot="R90">
 <attribute name="COPYRIGHT" value="Copyright (C) 2015 Accelerated Designs. All rights reserved" x="-6.35" y="70.612" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VENDOR" value="Panasonic" x="-6.35" y="70.612" size="1.778" layer="27" rot="R90" display="off"/>

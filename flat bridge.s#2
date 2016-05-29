@@ -179,7 +179,6 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/703465986AD8611_2_0.pdf<
 <pin name="D4" x="7.62" y="10.16" visible="off" length="short" rot="R270"/>
 <pin name="DTAB" x="10.16" y="10.16" visible="off" length="short" rot="R270"/>
 <wire x1="2.54" y1="7.62" x2="10.16" y2="7.62" width="0.254" layer="94"/>
-<text x="5.08" y="-5.08" size="1.778" layer="94">TPH2R608NH</text>
 </symbol>
 <symbol name="ACS711">
 <pin name="IP_1+" x="-7.62" y="2.54" visible="pin" length="middle"/>
@@ -194,8 +193,6 @@ Source: http://www.analog.com/UploadedFiles/Data_Sheets/703465986AD8611_2_0.pdf<
 <wire x1="15.24" y1="7.62" x2="15.24" y2="-12.7" width="0.254" layer="94"/>
 <wire x1="15.24" y1="-12.7" x2="-2.54" y2="-12.7" width="0.254" layer="94"/>
 <wire x1="-2.54" y1="-12.7" x2="-2.54" y2="7.62" width="0.254" layer="94"/>
-<text x="-2.54" y="10.16" size="1.778" layer="94">ACS711</text>
-<text x="-2.54" y="7.62" size="1.778" layer="94">Current Sensor</text>
 </symbol>
 <symbol name="CAPH">
 <pin name="22" x="7.62" y="0" visible="off" length="short" direction="pas" swaplevel="1" rot="R180"/>
@@ -6655,14 +6652,14 @@ Source: AVX .. aphvc.pdf</description>
 </classes>
 <parts>
 <part name="U$1" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
-<part name="R1" library="resistor" deviceset="R-US_" device="R1206" value="10"/>
+<part name="R1" library="resistor" deviceset="R-US_" device="R1206"/>
 <part name="U$2" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$3" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$4" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$5" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$6" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$9" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
-<part name="R9" library="resistor" deviceset="R-US_" device="R1206" value="10"/>
+<part name="R9" library="resistor" deviceset="R-US_" device="R1206"/>
 <part name="U$10" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$11" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$12" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
@@ -6670,14 +6667,14 @@ Source: AVX .. aphvc.pdf</description>
 <part name="U$14" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$7" library="brushlessrage" deviceset="ACS711" device=""/>
 <part name="U$8" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
-<part name="R2" library="resistor" deviceset="R-US_" device="R1206" value="10"/>
+<part name="R2" library="resistor" deviceset="R-US_" device="R1206"/>
 <part name="U$15" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$16" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$17" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$18" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$19" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$21" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
-<part name="R3" library="resistor" deviceset="R-US_" device="R1206" value="10"/>
+<part name="R3" library="resistor" deviceset="R-US_" device="R1206"/>
 <part name="U$22" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$23" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$24" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
@@ -6685,23 +6682,23 @@ Source: AVX .. aphvc.pdf</description>
 <part name="U$26" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$28" library="brushlessrage" deviceset="ACS711" device=""/>
 <part name="U$29" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
-<part name="R5" library="resistor" deviceset="R-US_" device="R1206" value="10"/>
+<part name="R5" library="resistor" deviceset="R-US_" device="R1206"/>
 <part name="U$30" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$31" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$32" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$33" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$34" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$35" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
-<part name="R6" library="resistor" deviceset="R-US_" device="R1206" value="10"/>
+<part name="R6" library="resistor" deviceset="R-US_" device="R1206"/>
 <part name="U$36" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$37" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$38" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$39" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$40" library="brushlessrage" deviceset="TPH2R608NH" device=""/>
 <part name="U$42" library="brushlessrage" deviceset="ACS711" device=""/>
-<part name="C1" library="rcl" deviceset="C-US" device="C2220K" value="10u"/>
-<part name="C2" library="rcl" deviceset="C-US" device="C2220K" value="10u"/>
-<part name="C3" library="rcl" deviceset="C-US" device="C2220K" value="10u"/>
+<part name="C1" library="rcl" deviceset="C-US" device="C2220K"/>
+<part name="C2" library="rcl" deviceset="C-US" device="C2220K"/>
+<part name="C3" library="rcl" deviceset="C-US" device="C2220K"/>
 <part name="C4" library="brushlessrage" deviceset="EEVFK1J471M" device=""/>
 <part name="C5" library="brushlessrage" deviceset="EEVFK1J471M" device=""/>
 <part name="C6" library="brushlessrage" deviceset="EEVFK1J471M" device=""/>
